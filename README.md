@@ -19,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pankaj-78278&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p dir="auto"><a href="https://github.com/Pankaj-78278"><img alt="Pankaj Rai Activity Graph" src="https://camo.githubusercontent.com/6efe527252a873c7856bbec5f47aa3f496601a63de5d3c8d8022122100f6f459/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4b65736861764368307564686172792662675f636f6c6f723d30443131313726636f6c6f723d354243444543266c696e653d35424344454326706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Pankaj-78278&amp;bg_color=0D1117&amp;color=5BCDEC&amp;line=5BCDEC&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a></p>
