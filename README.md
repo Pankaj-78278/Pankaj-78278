@@ -3,12 +3,12 @@
 </div>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-#  Summary
+#  👨‍ Summary
 An enthusiastic, determined full-stack software developer with extensive training in various Java languages, frameworks, and building web applications from the ground up. Specialized in Java and Java Script. Strong troubleshooting and problem-solving skills with an analytical mindset. Solid written and verbal communication, and time management skills.
 
 
 # 💫 About Me:
-🔭<br>👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about Coding...<br>📫 How to reach me: **pankajrai3295@gmail.com**<br>👯 Interested in backend technologies....<br>💬 Ask me about  **Java, JavaScript, Bootstrap, HTML, CSS, DSA**<br>
+🔭<br>👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning **Full Stack Web Development**<br>📫 How to reach me: **pankajrai3295@gmail.com**<br>👯 Interested in backend technologies....<br>💬 Ask me about  **Java, JavaScript, Bootstrap, HTML, CSS, DSA**<br>
 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/160sezaKt47pgrUGdS9BhGc0_4iewZXhf/view?usp=sharing)<br>
 ⚡ Want to know more about me? [Check out My Portfolio](https://pankaj-78278.github.io/)
 
