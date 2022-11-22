@@ -9,7 +9,7 @@ An enthusiastic, determined full-stack software developer with extensive trainin
 
 # 💫 About Me:
 🔭 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning **Full Stack Web Development**<br>📫 How to reach me: **pankajrai3295@gmail.com**<br>👯 Interested in backend technologies....<br>💬 Ask me about  **Java, JavaScript, Bootstrap, HTML, CSS, DSA**<br>
-📄 Know about my experiences [My Resume](https://drive.google.com/file/d/160sezaKt47pgrUGdS9BhGc0_4iewZXhf/view?usp=sharing)<br>
+📄 Know about my experiences [My Resume](https://github.com/Pankaj-78278/Resume/blob/main/Pankaj_Rai_Resume_08-10-2022-20-06-46.pdf)<br>
 ⚡ Want to know more about me? [Check out My Portfolio](https://pankaj-78278.github.io/)
 
 ## 🌐 Socials:
