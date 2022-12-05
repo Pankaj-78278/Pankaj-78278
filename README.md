@@ -31,7 +31,5 @@ An enthusiastic, determined full-stack software developer with extensive trainin
 [![](https://visitcount.itsvg.in/api?id=Pankaj-78278&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Pankaj Rai github activity graph](https://activity-graph.herokuapp.com/graph?username=Pankaj-78278&theme=react-dark)](https://github.com/pankaj-78278/github-readme-activity-graph)
-<br>
 <br>
 <a align="right" href="https://github.com/pankaj-78278?tab=followers"><img src="https://img.shields.io/github/followers/pankaj-78278?label=Followers&style=social" alt="GitHub Badge"></a>
